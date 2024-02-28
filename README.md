@@ -10,11 +10,11 @@ This is a simple ecommerce application that provides you with a ready-made front
 ## ⚙️Installation
 - Download project from repo
 ```bash 
-git clone https://github.com/your_username/your_project.git
+git clone https://github.com/karemSD/Mimal-Shop-app.git
 ```
 - Navigate to the project directory
 ```bash 
-cd your-project-name
+cd Mimal-Shop-app
 ```
 - Install dependencies
 ```bash 
@@ -35,6 +35,7 @@ flutter run
     <img src="mockup/7.png" width="27%" title="homescreen4">
     <img src="mockup/8.png" width="27%" title="homescreen5">
     <img src="mockup/9.png" width="27%" title="homescreen6">
+     <img src="mockup/10.png" width="27%" title="homescreen6">
     <img src="mockup/lap.png" width="100%" title="homescreen6">
 
 </p>
