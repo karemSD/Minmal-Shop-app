@@ -10,11 +10,11 @@ This is a simple ecommerce application that provides you with a ready-made front
 ## ⚙️Installation
 - Download project from repo
 ```bash 
-git clone [https://github.com/your_username/your_project.git](https://github.com/karemSD/Mimal-Shop-app.git)
+git clone https://github.com/karemSD/Mimal-Shop-app.git
 ```
 - Navigate to the project directory
 ```bash 
-cd your-project-name
+cd 
 ```
 - Install dependencies
 ```bash 
