@@ -14,7 +14,7 @@ git clone https://github.com/karemSD/Mimal-Shop-app.git
 ```
 - Navigate to the project directory
 ```bash 
-cd Mimal-Shop-app
+cd your-project-name
 ```
 - Install dependencies
 ```bash 
